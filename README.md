@@ -1,2 +1,2 @@
-# Brinda-Sales-Analysis
-Brinda Sales Analysis
+# Vrinda-Sales-Analysis
+Vrinda Sales Analysis
